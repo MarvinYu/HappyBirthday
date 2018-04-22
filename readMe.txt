@@ -1,1 +1,1 @@
-这是一个生日祝贺demo.
+git is cool .
